@@ -1,7 +1,7 @@
 {
   "id": "obs-git-sync",
   "name": "Git Sync",
-  "version": "1.0.166",
+  "version": "1.0.167",
   "minAppVersion": "1.5.0",
   "description": "静默同步到 GitLab/Gitea：纯远程 API，无本地 git，支持 LFS 与双向同步。GitLab 仅在 Community Edition 12.10.14 上验证，更高版本可能不兼容；Gitea 需 ≥1.20。",
   "author": "F",
