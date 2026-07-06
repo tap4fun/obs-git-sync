@@ -1,7 +1,7 @@
 # obs-git-sync 发布仓库
 
-> [!WARNING]
-> 首次使用请备份原始数据后再安装插件。备份方法：完全退出 Obsidian，把整个 vault 文件夹（含 `.obsidian` 子目录）复制或压缩到另一位置（如移动硬盘、网盘）；手机端可用系统文件管理器复制 vault 目录后导出。确认备份可打开后再继续安装。
+> [!CAUTION]
+> **首次使用请务必备份原始数据后再安装插件。** 备份方法：完全退出 Obsidian，把整个 vault 文件夹（含 `.obsidian` 子目录）复制或压缩到另一位置（如移动硬盘、网盘）；手机端可用系统文件管理器复制 vault 目录后导出。确认备份可打开后再继续安装。
 
 Obsidian 插件 Git Sync 的内部发布通道，仅含构建产物，桌面 / Android / iOS 通用。经 BRAT（Beta Reviewers Auto-update Tester）安装并自动检查更新。
 
